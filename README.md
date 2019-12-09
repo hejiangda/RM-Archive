@@ -10,4 +10,4 @@
 
 有很多同学问我模板匹配用的是什么样的模板。模板匹配是通过滑窗把图片的每个窗的像素与模板进行匹配。所以模板大小一定要比图片小，而且要被匹配的东西最好与模板一样大小这样模板匹配才会有效。
 
-下载地址：https://github.com/hejiangda/RM-Archive/tree/master/Template
+下载地址：https://github.com/hejiangda/RM-Archive/raw/master/Template.zip
